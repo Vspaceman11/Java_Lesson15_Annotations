@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.java.study.task1_calculator_using_annotations"}];updateSearchResults();

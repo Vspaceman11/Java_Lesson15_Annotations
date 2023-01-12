@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.java.study.task1_calculator_using_annotations","l":"Calculator"},{"p":"com.java.study.task1_calculator_using_annotations","l":"CalculatorClass"},{"p":"com.java.study.task1_calculator_using_annotations","l":"Main"}];updateSearchResults();
